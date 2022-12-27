@@ -1,0 +1,17 @@
+.mensagem__botao{
+    background: transparent;
+    border: 1px solid var(--azul);
+    border-radius: 30px;
+    color: var(--azul);
+    height: 3.5em;
+    margin: 0 auto;
+    transition: 800ms;
+    width: 70%;
+
+}
+
+.mensagem__botao:hover{
+    background: var(--azul);
+    color: var(--branco);
+    border:none;
+}

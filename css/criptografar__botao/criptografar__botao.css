@@ -1,0 +1,14 @@
+.criptografar__botao{
+    border-radius: 20px;
+    border: none;
+    background-color: var(--azul);
+    color: var(--branco);
+    padding: 1em 6em;
+    margin-right: 1em;
+    transition: 800ms;
+}
+
+
+.criptografar__botao:hover{
+    background-color: var(--azul-claro);
+}

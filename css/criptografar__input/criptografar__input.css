@@ -1,0 +1,15 @@
+.criptografar__input{
+    background: transparent;
+    border:none;
+    color: var(--azul);
+    margin-top: 5em;
+    width: 90%;
+    font-size: 32px;
+    padding: 0.5em 0.3em 0;
+    outline: none;
+}
+
+.criptografar__input::placeholder {
+    color: var(--azul);
+}
+

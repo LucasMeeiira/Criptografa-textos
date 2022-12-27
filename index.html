@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criptografa e descriptografa textos</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main id="conteiner">
+        <div class="criptografar__img"></div>
+        <section id="conteiner__criptografar">
+            <textarea name="texto__cripto" id="texto__cripto" cols="20" rows="15" class="criptografar__input " placeholder="Digite seu texto"></textarea>
+            <div id="conteiner__criptografar--secundario">
+                <p class="criptografar__texto">Apenas letras minúsculas e sem acento.</p>
+                <button class="criptografar__botao cripto">Criptogrfar</button>
+                <button class="descriptografar__botao descripto">Descriptografar</button>
+            </div>
+        </section>
+        <section id="conteiner__mensagem">
+            <textarea name="texto" id="texto__descripto" cols="10" rows="12" class="mensagem__input" placeholder="A mensagem será criptografada aqui"></textarea>
+            <div class="mensagem__img"></div>
+            <button class="mensagem__botao copiar">Copiar</button>
+        </section>
+    </main>
+    <script src="./js/main.js"></script>
+</body>
+</html>

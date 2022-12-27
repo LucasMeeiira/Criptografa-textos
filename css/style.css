@@ -1,0 +1,38 @@
+@import url("./conteiner/conteiner.css");
+@import url("./conteiner__criptografar/conteiner__criptografar.css");
+@import url("./criptografar__img/criptografar__img.css");
+@import url("./conteiner__criptografar--secundario/conteiner__criptografar--secundario.css");
+@import url("./criptografar__input/criptografar__input.css");
+@import url("./criptografar__texto/criptografar__texto.css");
+@import url("./criptografar__botao/criptografar__botao.css");
+@import url("./descriptografar__botao/descriptografar__botao.css");
+@import url("./conteiner__mensagem/conteiner__mensagem.css");
+@import url("./mensagem__input/mensagem__input.css");
+@import url("./mensagem__botao/mensagem__botao.css");
+@import url("./mensagem__img/mensagem__img.css");
+
+
+
+
+
+
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+
+:root {
+    --font: 'Inter', sans-serif;
+    --cor-de-fundo: #F3F5FC;
+    --azul: #0A3871;
+    --azul-claro:#669fe6;
+    --azul-2:#195eb3;
+    --branco: #FFFFFF;
+    --cinza: #495057;
+
+}
+
+body{
+    border: none;
+    border-radius: none;
+    font-family: var(--font);
+    font-size: 16px;
+}

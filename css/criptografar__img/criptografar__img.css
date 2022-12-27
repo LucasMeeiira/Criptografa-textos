@@ -1,0 +1,9 @@
+.criptografar__img{
+    background-image: url("../../img/logo.png") ;
+    background-repeat: no-repeat;
+    height: 5%;
+    width: 3%;
+    position: relative;
+    bottom: 42%;
+    
+}

@@ -1,0 +1,8 @@
+#conteiner {
+    align-items: center;
+    background: var(--cor-de-fundo);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+
+}

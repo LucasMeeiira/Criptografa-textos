@@ -1,0 +1,9 @@
+.criptografar__texto{
+    color: var(--cinza);
+    font-size: 12px;
+    margin-bottom: 1.5em;
+    background-image: url("../../img/exclamacao.png");
+    background-repeat: no-repeat;
+    padding-left: 2em;
+    
+}

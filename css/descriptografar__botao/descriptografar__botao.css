@@ -1,0 +1,14 @@
+.descriptografar__botao {
+border-radius: 20px;
+border: 1px solid var(--azul);
+background: transparent;
+color: var(--azul);
+padding: 1em 5em;
+transition: 800ms;
+} 
+
+.descriptografar__botao:hover{
+    background:var(--azul-2);
+    color: var(--branco);
+    border: var(--azul-2);
+}

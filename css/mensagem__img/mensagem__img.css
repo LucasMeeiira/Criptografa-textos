@@ -1,0 +1,7 @@
+.mensagem__img{
+    background-image: url("../../img/desenho.svg");
+    background-repeat: no-repeat;
+    background-position:center center;
+    width: 90%;
+    height: 30%;
+}
