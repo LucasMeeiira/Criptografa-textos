@@ -7,7 +7,7 @@
     margin: 0 auto;
     transition: 800ms;
     width: 70%;
-
+    cursor: pointer;
 }
 
 .mensagem__botao:hover{

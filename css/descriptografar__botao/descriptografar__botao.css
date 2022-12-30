@@ -5,6 +5,7 @@ background: transparent;
 color: var(--azul);
 padding: 1em 5em;
 transition: 800ms;
+cursor: pointer;
 } 
 
 .descriptografar__botao:hover{
